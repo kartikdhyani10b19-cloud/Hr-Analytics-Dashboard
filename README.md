@@ -31,4 +31,4 @@ Machine learning-based attrition prediction, drill-through analysis, executive r
 
 ### 👨‍💻 Author
 
-**Vansh**
+**Kartik**
